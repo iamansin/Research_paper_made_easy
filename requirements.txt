@@ -1,0 +1,14 @@
+langchain
+langgraph
+langchain_community
+langchain_hugginface
+streamlit 
+duckduckgo-search
+arxiv
+chromadb
+pymongo
+pymupdf
+haystack
+sentence_transformers
+psycopg2 
+sqlalchemy
